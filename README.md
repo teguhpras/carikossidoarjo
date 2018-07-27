@@ -7,10 +7,14 @@ pasword : teguhpras31
 17188251530154753
 
 TEAM :
-Dimas Andi Rizaldi   	  141080200249 IMK 8A3 
+Dimas Andi Rizaldi   	  141080200249 IMK 8A3
+
 Siti Amrilah 					  151080200048 ADSI 6A1
+
 Kurnia Ayunda Utami			151080200294 ADSI 6A1
+
 Mochamad Teguh Prasetya 161080200190 SI 4A3
+
 Ahmad Zahron 				    161080200236 SI 4A3
 
 
